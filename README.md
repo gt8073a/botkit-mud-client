@@ -27,3 +27,4 @@ Play Arctic through Slack / botkit
 9) add :race: icons
 10) add large images for "look mob"
 
+11) make "enter" not ".", "." is an editor command
