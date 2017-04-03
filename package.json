@@ -1,0 +1,12 @@
+{
+  "name": "mudoc",
+  "descripton": "proxy a telnet connection to a mud for slack a/o messenger",
+  "version": "v0.0.1",
+  "private": false,
+  "dependencies": {
+    "botkit": "^0.5.2",
+    "forever": "^0.15.3",
+    "net": "^1.0.2",
+    "yaml-configuration-loader": "^1.0.2"
+  }
+}
