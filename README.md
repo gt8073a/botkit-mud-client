@@ -1,7 +1,7 @@
 # botkit-mud-client
 Play Arctic through Slack / botkit
 
-##TODO
+### TODO ###
 1) give a better help
 	* create private room
 	* /invite bot
@@ -25,5 +25,5 @@ Play Arctic through Slack / botkit
 
 8) play test
 9) add :race: icons
-10) add large images for "look <mob>"
+10) add large images for "look mob"
 
